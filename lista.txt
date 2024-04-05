@@ -1,0 +1,3 @@
+https://horadecodar.com.br/exercicios-de-logica-de-programacao-javascript/
+https://gustavoguanabara.github.io/javascript/exercicios/
+https://www.bosontreinamentos.com.br/programacao-em-javascript/exercicios-de-javascript-resolvidos-funcoes/
